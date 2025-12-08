@@ -115,11 +115,11 @@ The cleaned and enriched dataset (now 18 columns) was exported as a CSV and used
 ## 🖼️ Dashboard Preview
 ### 📌 Page 1 – Customer Churn Analysis
 
-[![Churn Overview](Image URL)](Link URL)
+![Churn Overview](Customer_dashboard_page1.jpg)
 
 ### 📌 Page 2 – Customer Risk Analysis
 
-[![Customer Retention](Image URL)](Link URL)
+![Customer Retention](Customer_dashboard_page2.jpg)
 
 ---
 
